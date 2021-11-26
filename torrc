@@ -1,0 +1,5 @@
+
+HiddenServiceDir /var/lib/tor/ssh/
+HiddenServiceVersion 3
+HiddenServicePort 22 127.0.0.1:22
+DataDirectory /var/lib/tor/ssh/
